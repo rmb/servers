@@ -172,3 +172,4 @@ Managed by Anthropic, but built together with the community. The Model Context P
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
